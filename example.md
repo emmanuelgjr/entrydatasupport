@@ -83,7 +83,8 @@ https://github.com/OWASP/www-project-top-10-for-large-language-model-application
 
 # DATASET
 
-**OpenAI GPT-3 Dataset**: This dataset includes a comprehensive collection of prompts and responses used to train OpenAI's GPT-3 model. It contains diverse examples designed to test and improve model robustness against various attacks, including prompt injection. Researchers can utilize this dataset to study vulnerabilities and enhance the security of large language models. [OpenAI GPT-3 Dataset](https://beta.openai.com/docs/datasets/gpt-3-dataset)
+**DeBERTa v3 Base - Prompt Injection v2**: This dataset, hosted by Protect AI on Hugging Face, is designed to train and evaluate language models for robustness against prompt injection attacks. It includes a variety of prompts specifically curated to test for vulnerabilities related to both direct and indirect prompt injections. Researchers can utilize this dataset to enhance the security and robustness of large language models. [DeBERTa v3 Base - Prompt Injection v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2)
+
 
 # RESEARCH PAPERS & RELEVANT RESEARCH BLOGS
 
