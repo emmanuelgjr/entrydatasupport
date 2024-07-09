@@ -88,13 +88,19 @@ https://github.com/OWASP/www-project-top-10-for-large-language-model-application
 
 # RESEARCH PAPERS & RELEVANT RESEARCH BLOGS
 
-- **Tramer, F., & Boneh, D. (2022). [Preprint]** Adversarial Attacks on Machine Learning Models with Multiple Oracles. *arXiv preprint arXiv:2205.13619*. [Read the paper](https://arxiv.org/abs/2205.13619)
-- **Lakera, R. (2023). [Blogpost]** The ELI5 Guide to Prompt Injection. *Lakera Blog*. [Read the blog](https://www.lakera.ai/blog/guide-to-prompt-injection)
-- **Palo Alto Networks. (2023) [Blogpost].** GenAI Security Framework Blog Series 2/6: Prompt Injection 101. *Palo Alto Networks Blog*. [Read the blog](https://live.paloaltonetworks.com/t5/community-blogs/genai-security-framework-blog-series-2-6-prompt-injection-101/ba-p/590862)
-- **Zhang, Y., et al. (2023). [Preprint]** Benchmarking and Defending Against Indirect Prompt Injection Attacks. *arXiv preprint arXiv:2312.14197v2*. [Read the paper](https://arxiv.org/html/2312.14197v2)
-- **Brown, T., et al. (2024). [Peer reveiwed]** An Early Categorization of Prompt Injection Attacks on Large Language Models. *arXiv preprint arXiv:2402.00898*. [Read the paper](https://arxiv.org/abs/2402.00898)
+- 📖 **Tramer, F., & Boneh, D. (2022).** Adversarial Attacks on Machine Learning Models with Multiple Oracles. *arXiv preprint arXiv:2205.13619*. [Read the paper](https://arxiv.org/abs/2205.13619)
+- 📃 **Lakera, R. (2023).** The ELI5 Guide to Prompt Injection. *Lakera Blog*. [Read the blog](https://www.lakera.ai/blog/guide-to-prompt-injection)
+- 📃 **Palo Alto Networks. (2023).** GenAI Security Framework Blog Series 2/6: Prompt Injection 101. *Palo Alto Networks Blog*. [Read the blog](https://live.paloaltonetworks.com/t5/community-blogs/genai-security-framework-blog-series-2-6-prompt-injection-101/ba-p/590862)
+- 📖 **Zhang, Y., et al. (2023).** Benchmarking and Defending Against Indirect Prompt Injection Attacks. *arXiv preprint arXiv:2312.14197v2*. [Read the paper](https://arxiv.org/html/2312.14197v2)
+- 📚 **Brown, T., et al. (2024).** An Early Categorization of Prompt Injection Attacks on Large Language Models. *arXiv preprint arXiv:2402.00898*. [Read the paper](https://arxiv.org/abs/2402.00898)
 
 These papers cover various aspects of prompt injection, including both direct and indirect types, as well as proposed defence mechanisms and benchmarking efforts.
+Key:
+- Peer-reviewed paper: 📚
+- Pre-print paper (not peer-reviewed): 📖
+- Blog post: 📃
+- Community Data Source: 📊
+
 
 # REAL-WORLD EXAMPLES
 
