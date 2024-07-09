@@ -83,7 +83,7 @@ https://github.com/OWASP/www-project-top-10-for-large-language-model-application
 
 # DATASET
 
-**DeBERTa v3 Base - Prompt Injection v2**: This dataset, hosted by Protect AI on Hugging Face, is designed to train and evaluate language models for robustness against prompt injection attacks. It includes a variety of prompts specifically curated to test for vulnerabilities related to both direct and indirect prompt injections. Researchers can utilize this dataset to enhance the security and robustness of large language models. [DeBERTa v3 Base - Prompt Injection v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2)
+- 📊 **DeBERTa v3 Base - Prompt Injection v2**: This dataset, hosted by Protect AI on Hugging Face, is designed to train and evaluate language models for robustness against prompt injection attacks. It includes a variety of prompts specifically curated to test for vulnerabilities related to both direct and indirect prompt injections. Researchers can utilize this dataset to enhance the security and robustness of large language models. [DeBERTa v3 Base - Prompt Injection v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2)
 
 
 # RESEARCH PAPERS & RELEVANT RESEARCH BLOGS
@@ -95,20 +95,22 @@ https://github.com/OWASP/www-project-top-10-for-large-language-model-application
 - 📚 **Brown, T., et al. (2024).** An Early Categorization of Prompt Injection Attacks on Large Language Models. *arXiv preprint arXiv:2402.00898*. [Read the paper](https://arxiv.org/abs/2402.00898)
 
 These papers cover various aspects of prompt injection, including both direct and indirect types, as well as proposed defence mechanisms and benchmarking efforts.
+
+
+
+# REAL-WORLD EXAMPLES
+
+- 📃 **Twitter bot hijack (2022):** [Incident report](https://incidentdatabase.ai/cite/352/)
+- 📃 **Bing Chat manipulation (2023):** [Read the article](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
+- 📃 **Grandma Exploit jailbreak:** [Read the discussion](https://www.reddit.com/r/ChatGPT/comments/12sn0kk/grandma_exploit/?rdt=63684)
+- 📃 **"Haha pwned" demonstration:** [Read the blog](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+- 📃 **Cross-site scripting (XSS) in AI-powered web applications:** [Read the blog](https://www.cobalt.io/blog/prompt-injection-attacks)
+- 📃 **Bypassing hate speech detection:** [Read the article](https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/)
+
+These examples illustrate the diverse ways prompt injection attacks can be executed, from direct manipulation of chatbots to indirect attacks through external data sources.
+
 Key:
 - Peer-reviewed paper: 📚
 - Pre-print paper (not peer-reviewed): 📖
 - Blog post: 📃
 - Community Data Source: 📊
-
-
-# REAL-WORLD EXAMPLES
-
-- **Twitter bot hijack (2022):** [Incident report](https://incidentdatabase.ai/cite/352/)
-- **Bing Chat manipulation (2023):** [Read the article](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams)
-- **Grandma Exploit jailbreak:** [Read the discussion](https://www.reddit.com/r/ChatGPT/comments/12sn0kk/grandma_exploit/?rdt=63684)
-- **"Haha pwned" demonstration:** [Read the blog](https://simonwillison.net/2022/Sep/12/prompt-injection/)
-- **Cross-site scripting (XSS) in AI-powered web applications:** [Read the blog](https://www.cobalt.io/blog/prompt-injection-attacks)
-- **Bypassing hate speech detection:** [Read the article](https://www.technologyreview.com/2021/06/04/1025742/ai-hate-speech-moderation/)
-
-These examples illustrate the diverse ways prompt injection attacks can be executed, from direct manipulation of chatbots to indirect attacks through external data sources.
