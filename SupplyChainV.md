@@ -15,7 +15,7 @@
    - _Abstract:_ Explores the method and impact of hiding a lobotomized LLM to spread misinformation.
 
 3. **Research Blog:** [LLM Applications Supply Chain Threat Model](https://github.com/jsotiro/ThreatModels/blob/main/LLM%20Threats-LLM%20Supply%20Chain.png)
-   - _Author:_ Jason Sotiropoulos
+   - _Author:_ John Sotiropoulos
    - _Description:_ Provides a threat model for understanding supply chain vulnerabilities in LLM applications.
 
 4. **Research Blog:** [Hijacking Safetensors Conversion on Hugging Face](https://hiddenlayer.com/research/silent-sabotage/)
