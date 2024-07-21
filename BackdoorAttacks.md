@@ -29,6 +29,10 @@ Massimo Bozza, Matteo Meucci
    - _Authors:_ Various
    - _Abstract:_ Analyzes various adversarial attacks and defenses in machine learning, with a focus on LLMs.
 
+6. **Research Paper:** [A Survey of Backdoor Attacks and Defenses on Large Language Models: Implications for Security Measures](https://arxiv.org/abs/2406.06852)
+   - _Authors:_ Various
+   - _Abstract:_ Authors systematically classified backdoor attacks into three categories: full-parameter fine-tuning, parameter-efficient fine-tuning, and attacks without fine-tuning.
+     
 ## Real-World Examples
 1. **Example #1:** [Backdoor Attacks in AI Systems: A Comprehensive Review](https://arxiv.org/abs/2007.10760)
    - _Source:_ Arxiv
