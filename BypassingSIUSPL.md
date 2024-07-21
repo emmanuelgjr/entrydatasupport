@@ -5,7 +5,7 @@ Aditya Rana
 
 ## Dataset
 - **[OpenAI GPT-3 System Prompts](https://github.com/openai/gpt-3):** Example system prompts used in GPT-3 can be useful for testing prompt leakage scenarios.
-- **[Red Teaming Data](https://github.com/microsoft/red-team):** Datasets designed for adversarial testing and red teaming can be used to evaluate the robustness of models against prompt leakage attacks.
+- **[Red Teaming Data](https://github.com/rootsecdev/Azure-Red-Team?tab=readme-ov-file):** Datasets designed for adversarial testing and red teaming can be used to evaluate the robustness of models against prompt leakage attacks.
 - **[Sensitive Data Protection Datasets](https://github.com/google/sensitive-data-protection):** Datasets focusing on the protection of sensitive information, relevant for testing how models handle system prompt leakage.
 
 ## Research Papers and Relevant Research Blogs
