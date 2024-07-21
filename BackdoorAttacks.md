@@ -5,7 +5,7 @@ Massimo Bozza, Matteo Meucci
 
 ## Dataset
 - **[Hugging Face Model Hub](https://huggingface.co/models):** Repository of models for various use cases, useful for testing backdoor vulnerabilities.
-- **[OpenAI Model Zoo](https://github.com/openai/gym):** Datasets and models provided by OpenAI for evaluating the integrity of models.
+- **[OpenAI Model Gymnasium](https://github.com/Farama-Foundation/Gymnasium):** Datasets and models provided by OpenAI for evaluating the integrity of models.
 - **[TensorFlow Hub](https://www.tensorflow.org/hub):** A repository of pre-trained models, helpful for analyzing vulnerabilities in the supply chain.
 
 ## Research Papers and Relevant Research Blogs
