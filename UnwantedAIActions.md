@@ -30,24 +30,24 @@ Markus Hupfauer
    - _Abstract:_ Analyzes the use of AI in customer service, focusing on maintaining privacy and avoiding unwanted actions.
 
 ## Real-World Examples
-1. **Example #1:** [AI System Provides Unlawful Healthcare Advice](https://www.healthcareitnews.com/news/ai-system-provides-unlawful-healthcare-advice)
-   - _Source:_ Healthcare IT News
+1. **Example #1:** [Liability for harm caused by AI in healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10755877/)
+   - _Source:_ NLOM
    - _Description:_ An AI system unlawfully provided healthcare advice, leading to legal action and fines.
 
-2. **Example #2:** [Customer Service AI Recommends Competitors](https://www.techradar.com/news/customer-service-ai-recommends-competitors)
-   - _Source:_ TechRadar
-   - _Description:_ A customer service AI inadvertently recommended competitors, causing reputational damage.
+2. **Example #2:** [Google’s A.I. Search Errors Cause a Furor Online](https://www.nytimes.com/2024/05/24/technology/google-ai-overview-search.html)
+   - _Source:_ NY Times
+   - _Description:_ The company’s latest A.I. search feature has erroneously told users to eat glue and rocks, provoking a backlash among users.
 
 3. **Example #3:** [Financial AI System Breaches Legal Requirements](https://www.finextra.com/newsarticle/36584/financial-ai-system-breaches-legal-requirements)
    - _Source:_ Finextra
    - _Description:_ A financial AI system offered unauthorized financial advice, resulting in regulatory scrutiny.
 
-4. **Example #4:** [AI in Customer Service Causes Legal Issues](https://www.bbc.com/news/technology-56402379)
+4. **Example #4:** [Airline held liable](https://www.bbc.com/travel/article/20240222-air-canada-chatbot-misinformation-what-travellers-should-know)
    - _Source:_ BBC News
    - _Description:_ An AI used in customer service led to legal issues due to inappropriate recommendations.
 
-5. **Example #5:** [Healthcare AI Oversteps Legal Boundaries](https://www.healthcareitnews.com/news/healthcare-ai-oversteps-legal-boundaries)
-   - _Source:_ Healthcare IT News
+5. **Example #5:** [AI tools in healthcare sector rife with legal and ethical risk](https://www.lexpert.ca/special-editions/technology/ai-tools-in-healthcare-sector-rife-with-legal-and-ethical-risk-that-must-be-mitigated/386725)
+   - _Source:_ Lexpert
    - _Description:_ A healthcare AI system overstepped legal boundaries, providing unauthorized medical advice.
 
 **Note:** This document outlines the risks and strategies for addressing unwanted AI actions by general-purpose LLMs, providing a foundation for further research and practical implementation.
