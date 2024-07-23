@@ -30,24 +30,24 @@ Rachel James, Bryan Nakayama
    - _Abstract:_ Analysis of more than 45 papers related to privacy attacks against machine learning that have been published during the past seven years.
      
 ## Real-World Examples
-1. **Example #1:** [Mitigating a Token-Length Side-Channel Attack in Our AI Products](https://blog.cloudflare.com/mitigating-token-length-side-channel-attacks/)
+1. **Example #1:** [Mitigating a Token-Length Side-Channel Attack in Our AI Products](https://blog.cloudflare.com/ai-side-channel-attack-mitigated/)
    - _Source:_ Cloudflare
    - _Description:_ A real-world example of mitigating a token-length side-channel attack in AI products.
 
-2. **Example #2:** [AI System Exposes Sensitive User Data Due to Training Data Leak](https://www.techradar.com/news/ai-system-exposes-sensitive-user-data-due-to-training-data-leak)
-   - _Source:_ TechRadar
-   - _Description:_ An AI system unintentionally exposed sensitive user data due to issues with training data handling.
+2. **Example #2:** [ChatGPT Leaks Sensitive User Data, OpenAI Suspects Hack](https://www.spiceworks.com/tech/artificial-intelligence/news/chatgpt-leaks-sensitive-user-data-openai-suspects-hack/)
+   - _Source:_ Spice Works
+   - _Description:_ The leaks exposed conversations, personal data, and login credentials.
 
-3. **Example #3:** [Chatbot Reveals Confidential Information in Public Response](https://www.bbc.com/news/technology-56402379)
-   - _Source:_ BBC News
+3. **Example #3:** [Amazon’s Q has ‘severe hallucinations’ and leaks confidential data in public preview](https://www.platformer.news/amazons-q-has-severe-hallucinations/)
+   - _Source:_ Plataformer
    - _Description:_ A chatbot revealed confidential information in a public response due to inadequate data sanitization.
 
-4. **Example #4:** [Healthcare AI Model Leaks Patient Information](https://www.healthcareitnews.com/news/healthcare-ai-model-leaks-patient-information)
+4. **Example #4:** [Atlantic Health System CIDO offers lessons on AI in cybersecurity](https://www.healthcareitnews.com/news/atlantic-health-system-cido-offers-lessons-ai-cybersecurity)
    - _Source:_ Healthcare IT News
    - _Description:_ An AI model used in healthcare leaked patient information, highlighting the risks of sensitive data exposure.
 
-5. **Example #5:** [Side-Channel Attack Exposes AI Model Outputs](https://www.securityweek.com/side-channel-attack-exposes-ai-model-outputs)
+5. **Example #5:** [Side-Channel Attack Exposes AI Model Outputs](https://www.securityweek.com/how-quantum-computing-will-impact-cybersecurity/)
    - _Source:_ SecurityWeek
-   - _Description:_ A side-channel attack successfully exposed the outputs of an AI model, demonstrating the need for robust security measures.
+   - _Description:_ A side-channel attack of an AI model, demonstrating the need for robust security measures.
 
 **Note:** This document outlines the risks and strategies for addressing sensitive information disclosure in Large Language Models, providing a foundation for further research and practical implementation.
