@@ -4,9 +4,9 @@
 Markus Hupfauer
 
 ## Dataset
-- **[Health Insurance Dataset](https://www.kaggle.com/datasets):** Useful for testing LLMs in the context of health insurance to ensure they do not provide unauthorized advice.
-- **[Financial Services Dataset](https://www.kaggle.com/datasets):** Contains financial data, helpful for validating that LLMs do not offer unauthorized financial advice.
-- **[Customer Service Dataset](https://www.kaggle.com/datasets):** A dataset of customer service interactions to ensure LLMs maintain neutrality and do not recommend competitors.
+- **[Health Insurance Dataset](https://www.kaggle.com/datasets/hhs/health-insurance-marketplace):** Useful for testing LLMs in the context of health insurance to ensure they do not provide unauthorized advice.
+- **[Financial Services Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1):** Contains financial data, helpful for validating that LLMs do not offer unauthorized financial advice.
+- **[Customer Service Dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction):** A dataset of customer service interactions to ensure LLMs maintain neutrality and do not recommend competitors.
 
 ## Research Papers and Relevant Research Blogs
 1. **Research Paper:** [Ensuring Legal Compliance in AI Systems](https://arxiv.org/abs/2003.01341)
