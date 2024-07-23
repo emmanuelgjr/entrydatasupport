@@ -38,9 +38,9 @@ Aditya Rana
    - _Source:_ Security Magazine
    - _Description:_ People’s lives, privacy and safety can hang in the balance when malicious criminals disrupt healthcare operations.
 
-3. **Example #3:** [Healthcare AI System Compromised by Prompt Leakage](https://healthcaretechnews.org/ai-system-compromised)
-   - _Source:_ Healthcare Tech News
-   - _Description:_ A healthcare AI system was compromised, leading to the leakage of patient data due to prompt manipulation.
+3. **Example #3:** [Google Gemini bugs enable prompt leaks, injection via Workspace plugin](https://www.scmagazine.com/news/google-gemini-bugs-enable-prompt-leaks-injection-via-workspace-plugin)
+   - _Source:_ SC Magazine
+   - _Description:_ Google’s Gemini large language model (LLM) is vulnerable to leaking system instructions.
 
 4. **Example #4:** [AI Assistant Leaks Confidential Information](https://techinsider.com/ai-assistant-leak)
    - _Source:_ Tech Insider
