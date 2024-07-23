@@ -46,8 +46,8 @@ Massimo Bozza, Matteo Meucci
    - _Source:_ Arxiv
    - _Description:_ Surveys backdoor attacks and defenses in natural language processing, with real-world examples.
 
-4. **Example #4:** [The Threat of Backdoor Attacks in AI Models](https://towardsdatascience.com/the-threat-of-backdoor-attacks-in-ai-models-79fafd87f7d5)
-   - _Source:_ Towards Data Science
+4. **Example #4:** [B3: Backdoor Attacks against Black-box Machine Learning Models](https://dl.acm.org/doi/10.1145/3605212)
+   - _Source:_ Cobalt
    - _Description:_ Discusses the threat of backdoor attacks in AI models and provides real-world examples of such attacks.
 
 5. **Example #5:** [Adversarial Attacks and Defenses in Machine Learning](https://arxiv.org/abs/1810.00069)
