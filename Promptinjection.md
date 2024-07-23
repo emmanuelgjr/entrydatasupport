@@ -20,7 +20,7 @@ Rachel James, Bryan (also combined with things from AdsDawson_AdversarialInputs)
    - _Description:_ Introduction to prompt injection attacks and their implications.
 
 4. **Research Paper:** [Benchmarking and Defending Against Indirect Prompt Injection Attacks](https://arxiv.org/html/2312.14197v2)
-   - _Authors:_ Zhang, Y., et al. (2023)
+   - _Authors:_ Jingwei Yi, Yueqi Xie, Bin Zhu, Emre Kıcıman, Guangzhong Sun, Xing Xie, Fangzhao Wu
    - _Abstract:_ Explores benchmarking and defensive strategies against indirect prompt injection attacks.
 
 5. **Research Paper:** [An Early Categorization of Prompt Injection Attacks on Large Language Models](https://arxiv.org/abs/2402.00898)
