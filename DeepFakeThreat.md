@@ -5,8 +5,8 @@ Ken Huang, Ads - GangGreenTemperTatum
 
 ## Dataset
 - **[Deepfake Detection Challenge Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data):** A large dataset of real and fake videos to support deepfake detection research.
-- **[DFDC (Deepfake Detection Challenge) Preview Dataset](https://ai.facebook.com/datasets/dfdc-preview-dataset/):** A dataset provided by Facebook for developing and testing deepfake detection algorithms.
-- **[UADFV (Deepfake Video Detection Dataset)](https://github.com/cuihaoleo/detect-fake):** A dataset containing deepfake videos for research on detection methods.
+- **[DFDC (Deepfake Detection Challenge) Preview Dataset](https://ai.meta.com/datasets/disc21-dataset/):** A dataset provided by Facebook for developing and testing deepfake detection algorithms.
+- **[UADFV (Deepfake Video Detection Dataset)](https://github.com/cuihaoleo/kaggle-dfdc):** A dataset containing deepfake videos for research on detection methods.
 
 ## Research Papers and Relevant Research Blogs
 1. **Research Paper:** [Deepfake Threats to Privacy](https://arxiv.org/abs/1905.01226)
