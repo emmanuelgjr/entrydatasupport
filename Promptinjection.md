@@ -7,8 +7,8 @@ Rachel James, Bryan (also combined with things from AdsDawson_AdversarialInputs)
 - **[DeBERTa v3 Base - Prompt Injection v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2):** This dataset, hosted by Protect AI on Hugging Face, is designed to train and evaluate language models for robustness against prompt injection attacks. It includes a variety of prompts specifically curated to test for vulnerabilities related to both direct and indirect prompt injections. Researchers can utilize this dataset to enhance the security and robustness of large language models.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [Adversarial Attacks on Machine Learning Models with Multiple Oracles](https://arxiv.org/abs/2205.13619)
-   - _Authors:_ Tramer, F., & Boneh, D. (2022)
+1. **Research Paper:** [Adversarial Attacks on Machine Learning Models with Multiple Oracles](https://www.ijcai.org/proceedings/2019/0925.pdf)
+   - _Authors:_  K Wang
    - _Abstract:_ Discusses methods for adversarial attacks using multiple oracles.
 
 2. **Research Blog:** [The ELI5 Guide to Prompt Injection](https://www.lakera.ai/blog/guide-to-prompt-injection)
@@ -24,7 +24,7 @@ Rachel James, Bryan (also combined with things from AdsDawson_AdversarialInputs)
    - _Abstract:_ Explores benchmarking and defensive strategies against indirect prompt injection attacks.
 
 5. **Research Paper:** [An Early Categorization of Prompt Injection Attacks on Large Language Models](https://arxiv.org/abs/2402.00898)
-   - _Authors:_ Brown, T., et al. (2024)
+   - _Authors:_ Sippo Rossi, Alisia Marianne Michel, Raghava Rao Mukkamala, Jason Bennett Thatcher
    - _Abstract:_ Provides an early categorization of different types of prompt injection attacks on large language models.
 
 ## Real-World Examples
