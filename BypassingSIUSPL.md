@@ -13,8 +13,8 @@ Aditya Rana
    - _Authors:_ Various
    - _Abstract:_ Proposed multi-tier combination of defences.
 
-2. **Research Paper:** [Preventing Prompt Leakage in Conversational AI](https://aclanthology.org/2021.acl-main.351/)
-   - _Authors:_ Emily Zhang, Robert Lee
+2. **Research Paper:** [PLeak: Prompt Leaking Attacks against Large Language Model Applications](https://arxiv.org/abs/2405.06823v1)
+   - _Authors:_ Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao
    - _Abstract:_ Explores techniques to prevent the leakage of system prompts in conversational AI systems.
 
 3. **Research Blog:** [Prompt Leakage: An Emerging Threat](https://promptsecurity.io/blog/prompt-leakage)
