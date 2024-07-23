@@ -33,9 +33,9 @@ John Sotiropoulos
    - _Source:_ Wired
    - _Description:_ Researchers created the AI worm Morris II, which infects generative AI ecosystems by embedding itself in AI-assisted email applications.
 
-2. **Example #2:** [AI Drone 'Kills' Human Operator During 'Simulation'](https://news.sky.com/story/ai-drone-kills-human-operator-during-simulation-which-us-air-force-says-didnt-take-place-12894929)
-   - _Source:_ Sky News
-   - _Description:_ An AI drone simulation resulted in the drone killing its human operator, highlighting the risks of vulnerable logic.
+2. **Example #2:** [We Need to Control AI Agents Now](https://www.theatlantic.com/technology/archive/2024/07/ai-agents-safety-risks/678864/)
+   - _Source:_ The Atlantic
+   - _Description:_ Automated bots are about to be everywhere, with potentially devastating consequences.
 
 3. **Example #3:** [National Power Grid Compromise](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper)
    - _Source:_ UK Government
