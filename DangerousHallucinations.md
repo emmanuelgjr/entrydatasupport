@@ -9,9 +9,9 @@ Steve Wilson
 - **[FeTaQA](https://github.com/Yale-LILY/FETAQA):** A dataset designed for evaluating factual correctness and faithfulness of text generation in LLMs.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [Fine-Tuning Language Models to Generate Reliable Text](https://arxiv.org/abs/1909.12475)
-   - _Authors:_ Alex Wang, Kyunghyun Cho, Mike Lewis
-   - _Abstract:_ This paper explores techniques for fine-tuning LLMs to reduce the generation of false information.
+1. **Research Paper:** [Unveiling the Generalization Power of Fine-Tuned Large Language Models](https://arxiv.org/html/2403.09162v1)
+   - _Authors:_ Haoran Yang, Yumeng Zhang, Jiaqi Xu, Hongyuan Lu, Pheng Ann Heng, Wai Lam
+   - _Abstract:_ Aim to contribute valuable insights into the evolving landscape of fine-tuning practices.
 
 2. **Research Paper:** [Reducing Hallucination in Neural Machine Translation](https://aclanthology.org/2020.acl-main.451/)
    - _Authors:_ Aurelien Waite, Shankar Kumar, Michael Johnson
