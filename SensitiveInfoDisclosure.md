@@ -5,7 +5,7 @@ Rachel James, Bryan Nakayama
 
 ## Dataset
 - **[Enron Email Dataset](https://edrm.net/resources/data-sets/):** Contains a large number of emails, useful for testing information disclosure and data sanitization techniques.
-- **[Synthetic Training Data for LLMs]((https://research.google/blog/protecting-users-with-differentially-private-synthetic-training-data/):** A synthetic dataset designed for evaluating privacy-preserving techniques in LLM training.
+- **[Synthetic Training Data for LLMs](https://research.google/blog/protecting-users-with-differentially-private-synthetic-training-data/):** A synthetic dataset designed for evaluating privacy-preserving techniques in LLM training.
 - **[Healthcare Data for ML Models](https://apps.who.int/gho/data/node.resources):** Contains medical data, useful for testing the handling of sensitive information in LLM applications.
 
 ## Research Papers and Relevant Research Blogs
