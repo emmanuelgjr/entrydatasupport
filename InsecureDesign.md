@@ -25,9 +25,9 @@ Ads - GangGreenTemperTatum
    - _Author:_ OpenAI
    - _Description:_ Details how privacy policies should be integrated into AI development to protect user data.
 
-5. **Research Paper:** [AI Model Governance and Risk Management](https://par.nsf.gov/servlets/purl/10237395)
-   - _Authors:_ National Science Foundation
-   - _Abstract:_ Explores governance and risk management strategies for AI model deployment.
+5. **Research Paper:** [Governance of artificial intelligence: A risk and guideline-based integrative framework](https://www.sciencedirect.com/science/article/abs/pii/S0740624X22000181)
+   - _Authors:_ Science Direct
+   - _Abstract:_ The framework constitutes a comprehensive reference point for developing and implementing AI governance strategies and measures in the public sector.
 
 ## Real-World Examples
 1. **Example #1:** [AI Recruiting Tool Shows Bias in Hiring Process](https://www.techradar.com/news/ai-recruiting-tool-shows-bias-in-hiring-process)
