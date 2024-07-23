@@ -9,9 +9,9 @@ Aditya Rana
 - **[Sensitive Data Protection Datasets](https://cloud.google.com/sensitive-data-protection/docs/):** Datasets focusing on the protection of sensitive information, relevant for testing how models handle system prompt leakage.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [On the Robustness of Language Models to Adversarial Prompting](https://arxiv.org/abs/2109.04178)
-   - _Authors:_ John Smith, Jane Doe
-   - _Abstract:_ This paper investigates the robustness of language models to adversarial prompts designed to manipulate or extract system prompts.
+1. **Research Paper:** [Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions](https://arxiv.org/html/2404.16251v1)
+   - _Authors:_ Various
+   - _Abstract:_ Proposed multi-tier combination of defences.
 
 2. **Research Paper:** [Preventing Prompt Leakage in Conversational AI](https://aclanthology.org/2021.acl-main.351/)
    - _Authors:_ Emily Zhang, Robert Lee
