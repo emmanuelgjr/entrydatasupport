@@ -21,8 +21,8 @@ Massimo Bozza, Matteo Meucci
    - _Authors:_ Various
    - _Abstract:_ Surveys the landscape of backdoor attacks and defenses in natural language processing, providing insights into current trends and challenges.
 
-4. **Research Blog:** [The Threat of Backdoor Attacks in AI Models](https://towardsdatascience.com/the-threat-of-backdoor-attacks-in-ai-models-79fafd87f7d5)
-   - _Author:_ Towards Data Science
+4. **Research Blog:** [Backdoor Attacks on AI Models](https://www.cobalt.io/blog/backdoor-attacks-on-ai-models)
+   - _Author:_ Cobalt
    - _Description:_ Explores the threat of backdoor attacks in AI models and discusses strategies to mitigate these risks.
 
 5. **Research Paper:** [Adversarial Attacks and Defenses in Machine Learning](https://arxiv.org/abs/1810.00069)
