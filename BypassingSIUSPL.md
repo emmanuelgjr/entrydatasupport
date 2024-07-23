@@ -17,7 +17,7 @@ Aditya Rana
    - _Authors:_ Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao
    - _Abstract:_ Explores techniques to prevent the leakage of system prompts in conversational AI systems.
 
-3. **Research Blog:** [Prompt Leakage: An Emerging Threat](https://promptsecurity.io/blog/prompt-leakage)
+3. **Research Blog:** [Prompt Leakage: An Emerging Threat](https://www.prompt.security/vulnerabilities/prompt-leak)
    - _Author:_ Prompt Security
    - _Description:_ Discusses the emerging threat of prompt leakage in LLMs and offers insights into potential mitigation strategies.
 
