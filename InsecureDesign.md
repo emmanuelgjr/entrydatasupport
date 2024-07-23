@@ -4,9 +4,9 @@
 Ads - GangGreenTemperTatum
 
 ## Dataset
-- **[AI Ethics Dataset](https://www.kaggle.com/datasets):** Contains data on AI ethics and biases, useful for understanding the ethical implications of AI model design.
-- **[Privacy Policy Dataset](https://www.kaggle.com/datasets):** A collection of privacy policies for various AI products, helpful for evaluating compliance and data usage.
-- **[Recruitment Data](https://www.kaggle.com/datasets):** Data on recruitment processes, useful for testing AI models in the context of hiring and biases.
+- **[AI Ethics Dataset](https://www.kaggle.com/code/alexisbcook/identifying-bias-in-ai):** Contains data on AI ethics and biases, useful for understanding the ethical implications of AI model design.
+- **[Privacy Policy Dataset](https://www.kaggle.com/datasets/krist0phersmith/ai-4-privacy-pii-masking-en-38k):** A collection of privacy policies for various AI products, helpful for evaluating compliance and data usage.
+- **[Safety and Fairness Evaluation](https://www.kaggle.com/datasets/strikoder/llm-evaluationhub):** Presents an enhanced dataset tailored for the evaluation and assessment of Large Language Models (LLMs).
 
 ## Research Papers and Relevant Research Blogs
 1. **Research Paper:** [An Introduction to Training LLMs Using Reinforcement Learning From Human Feedback (RLHF)](https://wandb.ai/ayush-thakur/Intro-RLAIF/reports/An-Introduction-to-Training-LLMs-Using-Reinforcement-Learning-From-Human-Feedback-RLHF---VmlldzozMzYyNjcy)
