@@ -8,11 +8,11 @@ John Sotiropoulos
 - **[LLM Models on Mobile](https://developers.googleblog.com/en/large-language-models-on-device-with-mediapipe-and-tensorflow-lite/):** Datasets and models for testing on-device LLMs.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [TrustAgent: Ensuring Safe and Trustworthy LLM-based Agents](https://arxiv.org/abs/2402.11208v1)
+1. **Research Paper:** [TrustAgent: Ensuring Safe and Trustworthy LLM-based Agents](https://openreview.net/forum?id=zozQq4UWN3)
    - _Authors:_ Various
    - _Abstract:_ Discusses methods for ensuring the safety and trustworthiness of LLM-based agents.
 
-2. **Research Paper:** [Integrating LLM and Reinforcement Learning for Cybersecurity](https://arxiv.org/abs/2403.1767)
+2. **Research Paper:** [Integrating LLM and Reinforcement Learning for Cybersecurity](https://arxiv.org/abs/2403.17674)
    - _Authors:_ Various
    - _Abstract:_ Explores integrating LLM and reinforcement learning to enhance cybersecurity measures for autonomous agents.
 
@@ -24,7 +24,7 @@ John Sotiropoulos
    - _Author:_ IEEE Spectrum
    - _Description:_ Explores the implementation of zero trust security models for autonomous systems to mitigate risks.
 
-5. **Research Paper:** [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2402.11208v1)
+5. **Research Paper:** [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783)
    - _Authors:_ Various
    - _Abstract:_ Discusses multi-agent defense mechanisms to protect against jailbreak attacks in LLM-based systems.
 
