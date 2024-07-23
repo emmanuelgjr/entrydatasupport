@@ -9,26 +9,26 @@ Rachel James, Bryan Nakayama
 - **[Healthcare Data for ML Models](https://apps.who.int/gho/data/node.resources):** Contains medical data, useful for testing the handling of sensitive information in LLM applications.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [Data Sanitization and Its Impact on Privacy in ML Models](https://arxiv.org/abs/1905.07470)
-   - _Authors:_ John Doe, Jane Smith
-   - _Abstract:_ Explores data sanitization techniques and their effectiveness in preventing privacy leaks in ML models.
+1. **Research Paper:** [Preserving data privacy in machine learning systems](https://www.sciencedirect.com/science/article/pii/S0167404823005151)
+   - _Authors:_ Soumia Zohra El Mestari, Gabriele Lenzini, Huseyin Demirci
+   - _Abstract:_ Discuss current challenges and research questions that are still unsolved in the field.
 
-2. **Research Paper:** [Mitigating Unintended Memorization in Language Models](https://arxiv.org/abs/2002.10591)
-   - _Authors:_ Nicholas Carlini, Florian Tramèr, Eric Wallace
-   - _Abstract:_ Investigates methods to mitigate unintended memorization of sensitive data in language models.
+2. **Research Paper:** [Mitigating Unintended Memorization in Language Models via Alternating Teaching](https://arxiv.org/abs/2210.06772)
+   - _Authors:_ Zhe Liu, Xuedong Zhang, Fuchun Peng
+   - _Abstract:_ Propose a novel approach called alternating teaching to mitigate unintended memorization in sequential modeling.
 
-3. **Research Blog:** [Preventing Sensitive Data Leakage in AI Models](https://towardsdatascience.com/preventing-sensitive-data-leakage-in-ai-models-5e7f3c8b1d3a)
-   - _Author:_ Towards Data Science
+3. **Research Blog:** [Preventing Data Leakage in Machine Learning Models](https://shelf.io/blog/preventing-data-leakage-in-machine-learning-models/)
+   - _Author:_ Shelf
    - _Description:_ Discusses strategies to prevent sensitive data leakage in AI models, with a focus on practical implementations.
 
-4. **Research Blog:** [Mitigating Token-Length Side-Channel Attacks](https://blog.cloudflare.com/mitigating-token-length-side-channel-attacks/)
+4. **Research Blog:** [Mitigating Token-Length Side-Channel Attacks](https://blog.cloudflare.com/ai-side-channel-attack-mitigated)
    - _Author:_ Cloudflare
    - _Description:_ Examines the risks and mitigation strategies for token-length side-channel attacks in AI applications.
 
-5. **Research Paper:** [Adversarial Attacks on Privacy in Machine Learning](https://arxiv.org/abs/2106.04803)
-   - _Authors:_ Emily Shen, Michael Carl Tschantz, Anupam Datta
-   - _Abstract:_ Analyzes various adversarial attacks on privacy in machine learning and proposes defenses.
-
+5. **Research Paper:** [A Survey of Privacy Attacks in Machine Learning](https://dl.acm.org/doi/full/10.1145/3624010)
+   - _Authors:_ Maria Rigaki, Sebastian Garcia
+   - _Abstract:_ Analysis of more than 45 papers related to privacy attacks against machine learning that have been published during the past seven years.
+     
 ## Real-World Examples
 1. **Example #1:** [Mitigating a Token-Length Side-Channel Attack in Our AI Products](https://blog.cloudflare.com/mitigating-token-length-side-channel-attacks/)
    - _Source:_ Cloudflare
