@@ -21,7 +21,7 @@ Aditya Rana
    - _Author:_ Prompt Security
    - _Description:_ Discusses the emerging threat of prompt leakage in LLMs and offers insights into potential mitigation strategies.
 
-4. **Research Blog:** [System Prompts and Security](https://louis-shark.github.io/system-prompts-security)
+4. **Research Blog:** [System Prompts and Security](https://github.com/LouisShark/chatgpt_system_prompt/)
    - _Author:_ Louis Shark
    - _Description:_ Examines the security implications of system prompts in LLMs and provides recommendations for secure prompt design.
 
