@@ -9,25 +9,25 @@ Markus Hupfauer
 - **[Customer Service Dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction):** A dataset of customer service interactions to ensure LLMs maintain neutrality and do not recommend competitors.
 
 ## Research Papers and Relevant Research Blogs
-1. **Research Paper:** [Ensuring Legal Compliance in AI Systems](https://arxiv.org/abs/2003.01341)
+1. **Research Paper:** [Ensuring Legal Compliance in AI Systems](https://www.traverselegal.com/blog/ai-data-privacy-compliance/)
    - _Authors:_ Various
    - _Abstract:_ Discusses methods for ensuring AI systems remain compliant with legal regulations, preventing unwanted AI actions.
 
-2. **Research Paper:** [AI Governance and Risk Management](https://arxiv.org/abs/2102.03384)
-   - _Authors:_ Various
+2. **Research Paper:** [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework)
+   - _Authors:_ NIST
    - _Abstract:_ Explores governance protocols and risk management strategies for deploying AI systems in sensitive environments.
 
-3. **Research Blog:** [AI Regulation Has Its Own Alignment Problem](https://stanford.edu/ai-regulation-alignment)
+3. **Research Blog:** [AI Regulation Has Its Own Alignment Problem](https://hai.stanford.edu/policy-brief-ai-regulatory-alignment-problem)
    - _Authors:_ Guha, Neel; Lawrence, Christie M., et al.
    - _Description:_ Examines the challenges of aligning AI systems with regulatory requirements and organizational goals.
 
-4. **Research Blog:** [Building Robust AI Systems](https://towardsdatascience.com/building-robust-ai-systems-1d4a6b97e8d3)
-   - _Author:_ Towards Data Science
+4. **Research Blog:** [Building Robust AI Systems](https://dgallitelli95.medium.com/building-robust-ai-systems-with-dspy-and-amazon-bedrock-d0376f158d88)
+   - _Author:_ Medium
    - _Description:_ Provides practical advice on building robust AI systems that avoid unintended actions and legal pitfalls.
 
-5. **Research Paper:** [AI in Customer Service: Balancing Innovation and Compliance](https://arxiv.org/abs/2108.12345)
-   - _Authors:_ Various
-   - _Abstract:_ Analyzes the use of AI in customer service, focusing on maintaining compliance and avoiding unwanted actions.
+5. **Research Blog:** [AI in Customer Service: Balancing Privacy and Innovation](https://dialzara.com/blog/ai-customer-service-balancing-privacy-and-innovation/)
+   - _Authors:_ Dial Zara
+   - _Abstract:_ Analyzes the use of AI in customer service, focusing on maintaining privacy and avoiding unwanted actions.
 
 ## Real-World Examples
 1. **Example #1:** [AI System Provides Unlawful Healthcare Advice](https://www.healthcareitnews.com/news/ai-system-provides-unlawful-healthcare-advice)
