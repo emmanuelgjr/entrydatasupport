@@ -30,13 +30,13 @@ Aditya Rana
    - _Abstract:_ Investigates adversarial attacks targeting system prompts in large language models and proposes defenses.
 
 ## Real-World Examples
-1. **Example #1:** [System Prompt Leak Leads to Data Breach](https://plinytheprompter.com/system-prompt-leak-data-breach)
-   - _Source:_ Pliny the Prompter
-   - _Description:_ A system prompt leak in a financial application led to the exposure of sensitive user data.
+1. **Example #1:** [OpenAI’s Custom Chatbots Are Leaking Their Secrets](https://www.wired.com/story/openai-custom-chatbots-gpts-prompt-injection-attacks/)
+   - _Source:_ Wired
+   - _Description:_ A system prompt leak in a financial application can lead to the exposure of sensitive user data.
 
-2. **Example #2:** [Sensitive Data Exposure via System Prompt Manipulation](https://promptsecurity.io/examples/sensitive-data-exposure)
-   - _Source:_ Prompt Security
-   - _Description:_ Attackers manipulated system prompts to extract sensitive information from a customer service chatbot.
+2. **Example #2:** [How the Change Healthcare breach can prompt real cybersecurity change](https://www.securitymagazine.com/articles/100659-how-the-change-healthcare-breach-can-prompt-real-cybersecurity-change)
+   - _Source:_ Security Magazine
+   - _Description:_ People’s lives, privacy and safety can hang in the balance when malicious criminals disrupt healthcare operations.
 
 3. **Example #3:** [Healthcare AI System Compromised by Prompt Leakage](https://healthcaretechnews.org/ai-system-compromised)
    - _Source:_ Healthcare Tech News
